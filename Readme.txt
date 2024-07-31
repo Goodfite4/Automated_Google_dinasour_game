@@ -8,8 +8,7 @@ Before you begin:
     1. This bot was made for chrome://dino on Google Chrome. the screen resolution was 1920x1080. You must calibrate the
         variables that have comments beside them with the proper x and y co-ordinates.
     2. This code has no Failsafe, although it doesn't do anything but press up or down and space once. If you would like to end the
-        code then just press the stop button. I could add a failsafe where if it detects the game over sign, but that
-        would make the code slower and worse.
+        code then just press the stop button. 
 
 instructions:
     A. Open the game at chrome://dino
